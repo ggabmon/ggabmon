@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=200&section=header&text=조중현%20깃허브&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=조중현%20깃허브&fontSize=45)
 
 ## 지금까지 진행해온 프로젝트에 대한 정보들이 담겨있습니다.
 
