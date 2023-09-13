@@ -10,7 +10,7 @@
 2. 음악 경매 사이트 제작(23.08~23.09)
   <역할>  메인페이지 구현
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggabmon&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggabmon&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggabmon&layout=compact&theme=tokyonight)
 
 <!--
 **ggabmon/ggabmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
