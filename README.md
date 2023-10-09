@@ -8,7 +8,10 @@
 
   
 2. 음악 경매 사이트 제작(23.08~23.09)
-  <역할>  메인페이지 구현 / javascript와 restController를 이용한 무한스크롤러, 동적인 인기순위곡 플레이어기능구현, 비동기로 작동하는 좋아요 기능 구현
+  <역할>  메인페이지 구현 /
+javascript와 restController를 이용한 무한스크롤러 구현
+javascript와 restController를 이용한 동적인 인기순위곡 플레이어기능 구현
+비동기로 작동하는 좋아요 기능 구현
 
 
 
